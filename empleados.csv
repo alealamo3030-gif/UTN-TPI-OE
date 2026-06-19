@@ -1,0 +1,5 @@
+id,nombre,departamento,presupuesto_disponible,gastos_acumulados
+E001,Santiago Peralta,Tecnologia,50000,12000
+E002,Alejandro Alamo,Marketing,30000,28500
+E003,Maria Lopez,Recursos Humanos,20000,5000
+E004,Carlos Gomez,Finanzas,40000,39000
